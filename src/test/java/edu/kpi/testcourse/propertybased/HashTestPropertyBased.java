@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 import static org.quicktheories.QuickTheory.qt;
 import static org.quicktheories.generators.SourceDSL.strings;
 
+
 public class HashTestPropertyBased {
 
   @Test
